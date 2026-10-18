@@ -1,0 +1,18 @@
+YAPAY ZEKÂYA GİRİŞ - İKİ AJAN ARASINDA PAZARLIK
+Başlangıç kılavuzu
+
+1. Bilgisayarınızda Python 3.10 veya daha yeni bir sürüm olmalıdır.
+2. ogrenci_baslangic.py dosyasını VS Code, IDLE veya başka bir editörde açın.
+3. PDF yönergesindeki Bölüm 3'ü izleyerek TODO alanlarını doldurun.
+4. Dosyayı kaydedin.
+5. Terminali dosyanın bulunduğu klasörde açıp çalıştırın:
+   python ogrenci_baslangic.py
+   Windows'ta gerekirse: py ogrenci_baslangic.py
+6. A senaryosunun 5. turda 95.00 TL ile sonuçlandığını doğrulayın.
+7. Yönergedeki B, C ve D senaryolarını çalıştırın.
+8. Tüm çıktıları kaydedin, kısa raporunuzu ve sunumunuzu hazırlayın.
+
+EK KÜTÜPHANE, ÜCRETLİ API VE GRAFİK ARAYÜZ GEREKMİYOR.
+
+Önemli: Fonksiyon adlarını değiştirmeyin. Başlangıç dosyası kasıtlı
+olarak tamamlanmamıştır; boşlukları grup olarak siz kodlayacaksınız.
